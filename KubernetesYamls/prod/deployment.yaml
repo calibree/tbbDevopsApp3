@@ -21,6 +21,6 @@ spec:
     spec:
       containers:
       - name: bootcamp-html
-        image: aliserkantasci/bootcamp:v$DOCKER_BUILD_NUMBER
+        image: ccansu/tbbdevops:v$DOCKER_BUILD_NUMBER
         ports:
         - containerPort: 80
