@@ -13,7 +13,7 @@ data = {
       "mail": "cansutest2@test.com"
     },
     {
-      "status": "DevOps Engineer",
+      "status": "DevOps Engineer.",
       "source": "www.test.com"
     }
   ]
